@@ -1,0 +1,15 @@
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex4\bin\Debug\Ex4.exe.config
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex4\bin\Debug\Ex4.exe
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex4\bin\Debug\Ex4.pdb
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex4\bin\Debug\EntityFramework.dll
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex4\bin\Debug\EntityFramework.xml
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex4\obj\Debug\Ex4.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex4\obj\Debug\Ex4.Form1.resources
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex4\obj\Debug\Ex4.Properties.Resources.resources
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex4\obj\Debug\Ex4.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex4\obj\Debug\Ex4.csproj.CopyComplete
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex4\obj\Debug\Ex4.exe
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex4\obj\Debug\Ex4.pdb

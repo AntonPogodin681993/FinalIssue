@@ -1,0 +1,10 @@
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex1\bin\Debug\Ex1.exe
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex1\bin\Debug\Ex1.pdb
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex1\obj\Debug\Ex1.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex1\obj\Debug\Ex1.Form1.resources
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex1\obj\Debug\Ex1.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex1\obj\Debug\Ex1.exe
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\Final\ITMO2020.FinalIssue\Ex1\obj\Debug\Ex1.pdb
